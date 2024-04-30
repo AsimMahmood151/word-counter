@@ -1,0 +1,19 @@
+{
+  "name": "596-word-counter",
+  "version": "1.0.0",
+  "description": "This CLI Module accepts User input and count Characters and Words in the input Text",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "masim55@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.19"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
